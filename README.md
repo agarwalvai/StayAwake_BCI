@@ -1,5 +1,6 @@
 # StayAwake_BCI
 A very simple and efficient app that prevents you from being a victim of drowsiness/ driver fatigue behind the wheel!
+*This was created as a submission for HackGT
 
 ## Inspiration
 
@@ -32,3 +33,17 @@ All of the technologies I used for this project were new to me. I am very proud 
 ## What's next for StayAwake_BCI
 
 A good project never comes to an end. I will learn more about the used technologies and will continue with improvising the app. Further scalability can include communication using a FitBit, and other parameters for reducing false positives.
+
+## Relevant Links
+Link to Presentation
+https://drive.google.com/file/d/1XiTDcO_DfkZRskfbub0In2Zbz3Rw0kM6/view?usp=sharing
+Emotiv Cortex API Guide
+https://emotiv.github.io/cortex-docs/#introduction
+Emotiv Cortex Examples
+https://github.com/Emotiv/cortex-example
+JSON Url
+http://myjson.com/1fya48
+Websockets
+chrome-extension://pfdhoblngboilpfeibdedpjgfnlcodoo/index.html
+
+
