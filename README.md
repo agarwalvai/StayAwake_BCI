@@ -25,11 +25,11 @@ I used Android Studio to build the main framework of the app, and web sockets wi
 All of the technologies I used for this project were new to me. I am very proud that despite being in a one-man team, and being new to all of the technologies, I was here to see this hackathon to the end, though I will continue working on this project as I learn more with time.
 
 ## What I learned
-
-- Interfacing with APIs
--Using JSON
--Using Web Sockets
--Using Android Studio
+<br>
+- Interfacing with APIs<br>
+-Using JSON<br>
+-Using Web Sockets<br>
+-Using Android Studio<br>
 
 ## What's next for StayAwake_BCI
 
